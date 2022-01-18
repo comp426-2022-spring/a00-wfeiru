@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/a00-wfeiru/issues"
   },
-  "homepage": "https://github.com/comp426-2022-spring/a00-wfeiru#readme"
+  "homepage": "https://github.com/comp426-2022-spring/a00-wfeiru#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
 }
